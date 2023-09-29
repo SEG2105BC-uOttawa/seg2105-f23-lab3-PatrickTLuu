@@ -42,9 +42,8 @@
                 android:layout_marginTop="5dp"
                 android:layout_marginRight="5dp"
                 android:layout_marginBottom="5dp"
-                android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btn01Click"
+                android:onClick="btnNumberClick"
                 android:text="@string/button_01"
                 android:textSize="34sp" />
 
@@ -58,7 +57,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btn02Click"
+                android:onClick="btnNumberClick"
                 android:text="@string/button_02"
                 android:textSize="34sp" />
 
@@ -72,7 +71,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btn03Click"
+                android:onClick="btnNumberClick"
                 android:text="@string/button_03"
                 android:textSize="34sp" />
 
@@ -86,7 +85,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btnAddClick"
+                android:onClick="btnOperatorClick"
                 android:text="@string/button_add"
                 android:textSize="34sp" />
 
@@ -109,7 +108,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btn04Click"
+                android:onClick="btnNumberClick"
                 android:text="@string/button_04"
                 android:textSize="34sp" />
 
@@ -123,7 +122,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btn05Click"
+                android:onClick="btnNumberClick"
                 android:text="@string/button_05"
                 android:textSize="34sp" />
 
@@ -137,7 +136,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btn06Click"
+                android:onClick="btnNumberClick"
                 android:text="@string/button_06"
                 android:textSize="34sp" />
 
@@ -151,7 +150,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btnMinusClick"
+                android:onClick="btnOperatorClick"
                 android:text="@string/button_minus"
                 android:textSize="34sp" />
         </LinearLayout>
@@ -173,7 +172,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btn07Click"
+                android:onClick="btnNumberClick"
                 android:text="@string/button_07"
                 android:textSize="34sp" />
 
@@ -187,7 +186,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btn08Click"
+                android:onClick="btnNumberClick"
                 android:text="@string/button_08"
                 android:textSize="34sp" />
 
@@ -201,7 +200,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btn09Click"
+                android:onClick="btnNumberClick"
                 android:text="@string/button_09"
                 android:textSize="34sp" />
 
@@ -215,7 +214,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btnDivideClick"
+                android:onClick="btnOperatorClick"
                 android:text="/"
                 android:textSize="34sp" />
         </LinearLayout>
@@ -251,7 +250,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btn00Click"
+                android:onClick="btnNumberClick"
                 android:text="@string/button_00"
                 android:textSize="34sp" />
 
@@ -279,7 +278,7 @@
                 android:layout_marginBottom="5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#808080"
-                android:onClick="btnMultiplyClick"
+                android:onClick="btnOperatorClick"
                 android:text="@string/button_multiply"
                 android:textSize="34sp" />
 
